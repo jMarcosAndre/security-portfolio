@@ -19,11 +19,12 @@ Estudante de Análise e Desenvolvimento de Sistemas na FATEC Botucatu, com Inici
 
 ## Estrutura do repositório
 writeups/              → análises e investigações documentadas
+
 ├── phishing-analysis/
 ├── letsdefend-alerts/
 └── network-analysis/
+
 projects/               → projetos técnicos construídos do zero
-progress-log.md         → registro de progresso e aprendizados
 
 
 ## Projetos
