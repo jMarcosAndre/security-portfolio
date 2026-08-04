@@ -4,7 +4,7 @@ Repositório de estudos e projetos práticos na jornada pra me tornar analista d
 
 ## Sobre mim
 
-Estudante do último ano de Análise e Desenvolvimento de Sistemas na FATEC Botucatu, com Iniciação Científica (PIBIC/UNESP) desenvolvendo um sistema de gestão laboratorial (Node.js/TypeScript/Prisma). Focado em operações de segurança (SOC/Blue Team), com certificações Cisco Ethical Hacker e CCNA, estudando atualmente para o CompTIA Security+.
+Estudante de Análise e Desenvolvimento de Sistemas na FATEC Botucatu, com Iniciação Científica (PIBIC/UNESP) desenvolvendo um sistema de gestão laboratorial (Node.js/TypeScript/Prisma). Focado em operações de segurança (SOC/Blue Team), com certificações Cisco Ethical Hacker e IT Essentials, estudando atualmente para o CompTIA Security+.
 
 - LinkedIn: [https://www.linkedin.com/in/joaomarcos-vazalmeida/]
 - Contato: [jm.andrevaz@gmail.com]
@@ -12,18 +12,19 @@ Estudante do último ano de Análise e Desenvolvimento de Sistemas na FATEC Botu
 ## Certificações
 
 - Cisco Ethical Hacker
-- CCNA
+- Cisco IT Essentials
 - AWS Cloud Foundations
 - CompTIA Security+ (em andamento)
 - TryHackMe SOC Level 1 (em andamento)
 
 ## Estrutura do repositório
-├── writeups/ → análises e investigações documentadas
-│ ├── phishing-analysis/
-│ ├── letsdefend-alerts/
-│ └── network-analysis/
-├── projects/ → projetos técnicos construídos do zero
-└── progress-log.md → registro de progresso e aprendizados
+writeups/              → análises e investigações documentadas
+├── phishing-analysis/
+├── letsdefend-alerts/
+└── network-analysis/
+projects/               → projetos técnicos construídos do zero
+progress-log.md         → registro de progresso e aprendizados
+
 
 ## Projetos
 
